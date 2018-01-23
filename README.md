@@ -6,7 +6,7 @@ From DevPost,
 After throwing away a bagful of vegetables and starving for the following week, we decided to have more control on our food and expiration dates in a convenient way and at the same time learning more about databases and servers. Also the Walmart App influenced our laziness.
 
 - What it does:
-This Web App will receive the UPC (Universal Product Code or barcode thingy) and will send this code to Walmart's Product Lookup API. Which we will later retrieve the name and a thumbnail of the product in question. The App will process the JASON response and display it along with magical expiration dates.
+This Web App will receive the UPC (Universal Product Code or barcode thingy) and will send this code to Walmart's Product Lookup API. Which we will later retrieve the name and a thumbnail of the product in question. The App will process the JSON response and display it along with magical expiration dates.
 
 - How we built it:
 We first tried to follow the advice of creating the database in Contentful. We failed, so we moved on to Node.js with no prior Express/MongoDB experience. We failed miserably at that too so we ended up using old fashion PHP.
