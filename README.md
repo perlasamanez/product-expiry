@@ -18,8 +18,8 @@ As I mentioned before, we had very little knowledge of Node.js, Web servers and 
 We actually had something running! We definitely didn't expect to have something ready. oh well.
 
 - What we learned:
-We learned tons on API's in general! We also learned that there are a million ways to do what we wanted to do! frustrating right now (Because of the lack of sleep lol) but it motivate us to implement even more stuff in the future!
+We learned tons on API's in general! We also learned that there are a million ways to do what we wanted to do! frustrating right now (Because of the lack of sleep) but it motivate us to implement even more stuff in the future!
 
 - What's next for Expiry:
-When we first arrived to SwampHacks we just intented to get a response from Walmart with some functionality. However, after meeting the sponsors at the SwampTank, my mind was blown with the cool tools they use and recommended. Now that we have a somewhat stable framework now we can venture into adding more functionality eg. OCR for receipts, sending notifications to other Apps, Recording costs for personal budgeting options, you name it!
+When we first arrived to SwampHacks we just intented to get a response from Walmart with some functionality. However, after meeting the sponsors at the SwampTank, our mind were blown with the cool tools they use and recommended. Now that we have a somewhat stable framework now we can venture into adding more functionality eg. OCR for receipts, sending notifications to other Apps, Recording costs for personal budgeting options, you name it!
 
